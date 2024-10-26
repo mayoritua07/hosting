@@ -75865,7 +75865,7 @@ A.j6.prototype={
 J(a){var s=this,r=null,q=A.b1(a,B.ab,t.w).w.a.a,p=A.iQ(8),o=s.f,n=t.p
 return A.hd(r,A.cU(A.b([A.ei(A.b([A.vM(new A.f_(s.e,r,r),o,30)],n),B.y,B.iX,B.C),B.ez,A.cr(s.c,r,r,r,r,A.T(a).p2.w.bT(o),r,r,r),B.ez,A.cr(s.d,r,r,r,r,B.aW.OG(1.6),r,r,r)],n),B.bB,B.T,B.C),B.B,r,B.yM,new A.cC(B.k,r,r,p,B.FI,r,B.an),r,q/5,B.C2,B.Cc,r,r,q/4)}}
 A.FW.prototype={
-J(a){var s,r,q=null,p="assets/images/difference_logo.png",o="Get latest updates by subscribing to our newslatter",n=A.b1(a,B.ab,t.w).w.a.a<800,m=n?40:35,l=t.p,k=A.b([new A.eh("Home",new A.XM(),q),new A.eh("About us",new A.XN(a),q),new A.eh("Features",new A.XO(a),q),new A.eh("FAQ",new A.XP(a),q)],l),j=A.ans(q,B.k5,q,new A.ap(0,0,0,m/2),q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,"johndoe@gmail.com",q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q),i=A.b([A.hd(q,new A.yT(j,B.N0,B.MI,B.Mc,B.Md,!0,q),B.B,q,q,B.yP,q,m,q,B.C0,q,q,250),B.xd,A.amY(B.Re,new A.XQ(),q)],l)
+J(a){var s,r,q=null,p="assets/images/difference_logo.png",o="Get latest updates by subscribing to our newslatter",n=A.b1(a,B.ab,t.w).w.a.a<800,m=n?35:30,l=t.p,k=A.b([new A.eh("Home",new A.XM(),q),new A.eh("About us",new A.XN(a),q),new A.eh("Features",new A.XO(a),q),new A.eh("FAQ",new A.XP(a),q)],l),j=A.ans(q,B.k5,q,new A.ap(0,0,0,m/2),q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,"johndoe@gmail.com",q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q),i=A.b([A.hd(q,new A.yT(j,B.N0,B.MI,B.Mc,B.Md,!0,q),B.B,q,q,B.yP,q,m,q,B.C0,q,q,250),B.xd,A.amY(B.Re,new A.XQ(),q)],l)
 j=A.b([B.lv,B.jE],l)
 if(n){s=A.pX(p,190)
 r=A.a0(B.mj,!0,t.l7)
